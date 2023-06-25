@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c294e7be-cc03-4f84-b662-ad3909145428" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/Kibernum/Documents/Kibernum/Devops/SeleniumTestingFramework/src/main/resources",
+    "last_opened_file_path": "C:/Users/DevOps/Documents/proyectos_devops_git/SeleniumTestWithPatterDesigns",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +60,8 @@
       <recent name="C:\Users\Kibernum\Documents\Kibernum\Devops\SeleniumTestingFramework\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DevOps\Documents\proyectos_devops_git\SeleniumTestWithPatterDesigns" />
+      <recent name="C:\Users\DevOps\Documents\proyectos_devops_git\SeleniumTestWithPatterDesigns\src\main\resources" />
       <recent name="C:\Users\Kibernum\Documents\Kibernum\Devops\SeleniumTestingFramework" />
       <recent name="C:\Users\Kibernum\Documents\Kibernum\Devops\SeleniumTestingFramework\src\main\resources" />
     </key>
